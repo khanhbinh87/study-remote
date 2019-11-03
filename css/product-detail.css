@@ -64,3 +64,6 @@ p{
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+.post-list-table .post-list-3{
+    height: 100%;
+}

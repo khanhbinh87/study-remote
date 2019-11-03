@@ -851,3 +851,110 @@ footer{
     top: 1px;
     right:-150px;
 }
+/* contact */
+.red{
+    color: #f9100b;
+}
+.black{
+    color: #2d2d2d;
+}
+.img-contact , .contact-content{
+    display: inline-block;
+}
+p{
+    margin:7px 0px;
+}
+
+tr td:first-child{
+    width:150px;
+}
+tr td:last-child{
+    width:calc(100% - 150px);
+    padding-top: 10px;
+    color: #b1b1b1;
+}
+tr td input{
+    width:100%;
+    border-radius:5px;
+    font-size: 15px;
+    padding: 7px 10px;
+    
+}
+tr td button{
+    width: 90px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+tr td  .blue{
+   
+    background: blue;
+    color: #fff;
+
+}
+tr td .white{
+    background: #fff;
+    color: #666;
+
+}
+table{
+    margin-bottom: 50px;
+}
+.brand{
+    margin-top:50px;
+}
+/* post-detail */
+
+.post-detail .contact{
+    font-style: italic;
+}
+.post-detail  h2{
+    font-size: 30px;
+    font-weight: 400;
+    color: #555;
+}
+ul.detail{
+    padding: 0;
+   text-align: right;
+}
+.detail li {
+    display: inline-block;
+}
+.detail li a{
+    color:gray;
+    padding:5px;
+}
+.detail > li + li:before {
+    content: "/";
+    color: #ccc;
+}
+.detail .detail-content h2{
+    margin-top:35px;
+    color: blue;
+    border-bottom: 1px solid gray;
+}
+.detail  h4{
+    margin:20px 0px;
+    color: #818181;
+}
+
+
+/* post-list */
+.post-list-table{
+    display: table;
+    width: calc(100% + 30px);
+    height: 0;
+    margin-left:-15px;
+    margin-right: -15px;
+}
+.post-list-table-cell{
+    display: table-cell;
+    height: 100%;
+    margin-bottom: 30px;
+}
+.post-list-table-cell .widget-products-2{
+    height: 100%;
+    padding:0;
+    border: 0;
+}

@@ -31,37 +31,47 @@
   
    
 }
-.widget-products-2  p{
-    font-size: 14px;
+.post-list-table-cell-2{
+    height: 52%;
+}
+
+.post-list-table-cell-2 .widget-products-2  p{
+    font-size: 15px;
     color: #777;
     font-weight: 400;
     padding-bottom: 22px;
 }
-.widget-products-2{
+
+.post-list-table-cell-2 .widget-products-2{
     font-size: 0px;
     border: 1px solid #dbdbdb;
     padding: 5px;
     margin-bottom: 30px;
+    height: 90%;
+}
+.post-list-table-cell-2 .widget-products-2 .product{
+    height:90%;
 }
 
-.widget-products-2 .title{
+.post-list-table-cell-2 .widget-products-2 .title{
     margin:10px 0px;
 }
-.widget-products-2 h3{
+.post-list-table-cell-2 .widget-products-2 h3{
     color: #333;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     margin-bottom: 15px;
+    height: 15%;
 }
-.widget-products-2 .view {
+.post-list-table-cell-2 .widget-products-2 .view {
     padding:10px 0px 10px 0px;
   
 }
-.widget-products-2 .comment{
+.post-list-table-cell-2 .widget-products-2 .comment{
     padding:10px 0px 5px 10px;
    
 }
-.widget-products-2 .view img, .widget-products-2 .comment img{
+.post-list-table-cell-2  .widget-products-2 .view img, .post-list-table-cell-2  .widget-products-2 .comment img{
     display: inline-block;
     vertical-align: middle;
 }
