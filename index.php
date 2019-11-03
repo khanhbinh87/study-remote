@@ -1,3 +1,3 @@
 <?php
-    require_once('post-list.html')
+    require_once('product-detail.html')
 ?>
