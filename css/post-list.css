@@ -1,0 +1,14 @@
+.post-list-table{
+    display: table;
+    width: 100%;
+    height: 0;
+}
+.post-list-table-cell{
+    display: table-cell;
+    height: 100%;
+}
+.post-list-table-cell .widget-products-2{
+    height: 100%;
+    padding:0;
+    border: 0;
+}

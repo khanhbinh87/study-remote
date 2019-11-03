@@ -1,0 +1,52 @@
+.red{
+    color: #f9100b;
+}
+.black{
+    color: #2d2d2d;
+}
+.img-contact , .contact-content{
+    display: inline-block;
+}
+p{
+    margin:7px 0px;
+}
+
+tr td:first-child{
+    width:150px;
+}
+tr td:last-child{
+    width:calc(100% - 150px);
+    padding-top: 10px;
+    color: #b1b1b1;
+}
+tr td input{
+    width:100%;
+    border-radius:5px;
+    font-size: 15px;
+    padding: 7px 10px;
+    
+}
+tr td button{
+    width: 90px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+tr td  .blue{
+   
+    background: blue;
+    color: #fff;
+
+}
+tr td .white{
+    background: #fff;
+    color: #666;
+
+}
+table{
+    margin-bottom: 50px;
+}
+.brand{
+    margin-top:50px;
+}
