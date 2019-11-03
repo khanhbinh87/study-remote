@@ -1,4 +1,5 @@
 <?php
-    require_once('index.html');
+    require_once('product-list.html');
+    require_once('contact.html')
     
 ?>
